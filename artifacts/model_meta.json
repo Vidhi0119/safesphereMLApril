@@ -1,10 +1,10 @@
 {
-  "mae": 0.12641928674418074,
-  "rmse": 0.17570243589957704,
-  "r2": 0.9904937721159067,
-  "n_train": 322,
-  "n_test": 81,
-  "trained_at": "2026-03-17T15:31:35.376254Z",
-  "target": "baseline rule-based + feedback (n_feedback=1)",
-  "n_feedback_rows": 1
+  "mae": 0.15721319843067316,
+  "rmse": 0.2020339835649227,
+  "r2": 0.9897185392579234,
+  "n_train": 328,
+  "n_test": 82,
+  "trained_at": "2026-04-07T15:53:07.110443Z",
+  "target": "baseline rule-based + feedback (n_feedback=8)",
+  "n_feedback_rows": 8
 }

@@ -1,0 +1,403 @@
+location,latitude,longitude,display_name,crime_type,cctv_presence,police_station_prox,risk_score,incident_time
+Andheri,19.1196976,72.8464205,"Andheri, Masjid Galli, Andheri West, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400069, India",Vandalism,0,4.604,0.83416,2023-02-02T16:25:51
+Aram Nagar,19.1322109,72.8126902,"Machalimar, Jai Prakash Road, Jeet Nagar, Versova, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400061, India",Suspicious Activity,0,1.34,0.5036,2023-02-01T04:31:58
+Amboli,19.1320703,72.849863,"Hindu Friends Society Marg, K/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400060, India",Harassment,1,3.508,0.64032,2023-09-26T22:30:07
+Chakala,19.1152873,72.8618085,"Chakala, MIDC, K/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400069, India",Suspicious Activity,0,0.47,0.4688,2023-11-03T08:10:55
+D.N. Nagar,19.1282826,72.8302354,"D.N. Nagar, Jai Prakash Road, Four Bungalows, Dadabhai Naoroji Nagar, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 402205, India",Suspicious Activity,1,0.914,0.23656,2023-10-13T21:32:26
+Four Bungalows,19.1287942,72.8255543,"Four Bungalows, Versova, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 402205, India",Assault,0,1.162,0.89648,2023-06-14T13:53:03
+JB Nagar,19.1067873,72.8640984,"JB  NAGAR, V M Shah Marg, Chakala Village, Andheri East, K/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400099, India",Harassment,1,1.543,0.56172,2023-11-10T22:09:45
+Lokhandwala Complex,19.1437684,72.8237728,"Lokhandwala Complex, Oshiwara, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, India",Harassment,1,4.98,0.6992,2023-09-13T20:26:53
+Marol,19.1172198,72.882342,"Marol, Military Road, Marol Village, Saki Naka, K/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400059, India",Harassment,1,3.515,0.6406,2023-09-05T04:21:28
+Model Town,19.133258,72.8232509,"Model Town, Versova, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 402205, India",Suspicious Activity,1,1.983,0.27932,2023-07-01T06:44:40
+Poonam Nagar,19.1369178,72.869128,"Poonam Nagar, K/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400093, India",Vandalism,1,3.712,0.54848,2023-12-03T22:24:19
+Saki Naka,19.108206,72.8828404,"Saki Naka, K/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400072, India",Harassment,1,4.585,0.6834,2023-11-27T14:47:11
+Seven Bungalows,19.1297617,72.8213781,"Seven Bungalows, Versova, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400061, India",Others,0,4.798,0.54192,2023-06-18T12:19:13
+Versova,19.1302521,72.8213775,"Versova, Jai Prakash Road, Seven Bungalows, Versova, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400061, India",Suspicious Activity,0,0.384,0.46536,2023-07-26T16:09:49
+SEEPZ,19.1253556,72.8751702,"SEEPZ, MIDC, K/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, India",Assault,0,2.033,0.93132,2023-08-18T10:46:49
+Sahar,19.0965748,72.8745451,"Terminal 2, Private Vehicle Lane, Saki Naka, K/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400099, India",Vandalism,1,0.623,0.42492,2023-06-08T10:53:17
+Bandra,19.0549792,72.8402203,"Bandra, Gurunanak Marg (Turner Road), H/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400050, India",Others,1,1.745,0.1698,2023-03-29T10:49:11
+Bandra Kurla Complex,19.067115,72.8657245,"Bandra Kurla Complex, H/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400098, India",Others,1,0.931,0.13724,2023-10-21T18:46:39
+Bandstand Promenade,19.0505041,72.8214123,"Bandstand Promenade, Bandstand, H/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400050, India",Assault,1,3.27,0.7308,2023-06-22T22:33:27
+Gandhi Nagar,19.05804,72.8472584,"Gandhi Nagar, Kherwadi, H/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400017, India",Vandalism,0,2.003,0.73012,2023-07-04T03:14:06
+Kherwadi,19.0612177,72.8448733,"Kherwadi, H/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400050, India",Suspicious Activity,0,1.224,0.49896,2023-06-10T16:51:33
+Bharat Nagar,19.0629912,72.8566638,"Bharat Nagar, Bandra East, H/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, India",Theft,1,1.403,0.35612,2023-01-29T16:33:33
+Land's End,19.0452872,72.820058,"Land's End, H/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400035, India",Vandalism,0,1.866,0.72464,2023-02-03T09:36:01
+Pali Hill,19.0649126,72.8270326,"Pali Hill, Khar, Bandra West, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400050, India",Assault,0,1.374,0.90496,2023-05-07T02:16:24
+Bandra reclamation,19.0512275,72.8326014,"Bandra Reclamation, H/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400050, India",Others,1,2.321,0.19284,2023-12-29T11:49:03
+Chapel Avenue,19.0515493,72.8283257,"Chapel Avenue, 15, Chapel Road, Ranwar Village Square, H/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400050, India",Suspicious Activity,0,0.258,0.46032,2023-11-09T07:26:39
+KC Marg,19.0512175,72.8295521,"KC Marg, Vaidya Nagar, H/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400050, India",Vandalism,1,1.471,0.45884,2023-02-16T21:59:39
+Carter Road,19.0688931,72.8228587,"Carter Road, Union Park, Khar, Bandra West, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400052, India",Theft,0,2.115,0.6346,2023-05-30T20:19:10
+Kala Nagar,19.0546701,72.8485093,"Kala Nagar, Bandra East, H/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400017, India",Theft,1,3.054,0.42216,2023-05-03T00:46:43
+Naupada,19.0829619,72.8889865,"Naupada, L Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, India",Harassment,1,1.428,0.55712,2023-09-12T02:54:30
+Nirmal Nagar,19.1073569,72.8294188,"Nirmal, 42, Indravadan Oza Road, Ashok Nagar, Juhu, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400058, India",Harassment,1,0.753,0.53012,2023-12-09T18:29:26
+Valmiki Nagar,19.0651436,72.8554589,"Valmiki Nagar, Bandra East, H/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, India",Assault,1,0.473,0.61892,2023-03-02T08:41:37
+Sadguru Colony,19.068838,72.9059636,"Sadguru, Molax Bhavan, Chheda Nagar, Chembur, Road 1, Pestom Sagar Colony, Chheda Nagar, M/W Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400089, India",Vandalism,0,4.709,0.83836,2023-08-10T02:20:07
+Subhash Nagar,19.0851733,72.8533097,"Subhash Nagar, Kalina, H/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, India",Vandalism,1,2.142,0.48568,2023-05-04T23:29:41
+Sanjay Nagar,19.0657535,72.926869,"Sanjay Nagar I, Shivaji Nagar, M/E Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400043, India",Others,1,2.948,0.21792,2023-06-16T19:15:46
+Sant Dnyaneshwar Nagar,19.0642162,72.8534765,"Sant Dnyaneshwar Nagar, Bandra East, H/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400051, India",Others,1,4.604,0.28416,2023-04-06T16:44:16
+Vaidya Nagar,19.0519073,72.8308306,"Vaidya Nagar, H/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400050, India",Others,0,0.505,0.3702,2023-01-29T18:07:27
+Santosh Nagar,19.0526081,72.9094457,"Santosh Nagar, Nagesh Patil Wadi, Deonar, M/W Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400088, India",Harassment,1,4.396,0.67584,2023-09-14T07:48:34
+Bandra Fort,19.0418641,72.8183782,"Bandra Fort, Mumbai Coastal Road - Phase II, Bandstand, H/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400035, India",Vandalism,0,2.803,0.76212,2023-07-19T19:01:45
+Guru Nanak Road,19.1056897,72.8298379,"Guru Nanak Road, Ashok Nagar, Juhu, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400058, India",Vandalism,1,0.908,0.43632,2023-06-29T16:18:37
+Mount Mary Road,19.0460427,72.8221834,"Mount Mary Road, Land's End, H/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400050, India",Theft,0,2.115,0.6346,2023-02-21T15:37:05
+Rizvi Complex,19.0662286,72.822963,"Rizvi Complex, Carter Road, Malla, Khar, H/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400050, India",Harassment,0,3.91,0.9064,2023-10-04T02:10:29
+Ranwar,19.0537259,72.8275798,"Ranwar Village Square, H/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400050, India",Suspicious Activity,1,2.454,0.29816,2023-03-10T01:40:06
+D'Monte Park Road,19.059652,72.8260794,"D'Monte Park, Perry Road, Adarsh Nagar, Khar, H/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400050, India",Harassment,0,4.928,0.94712,2023-03-05T03:17:55
+Perry Cross Road,19.0611786,72.8233827,"Perry Cross Road, Malla, Khar, H/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400050, India",Suspicious Activity,1,1.946,0.27784,2023-12-28T09:36:35
+Tata Blocks,19.0602403,72.8383838,"Tata Blocks, Khar, H/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, India",Theft,1,3.773,0.45092,2023-04-18T18:25:28
+Somnath lane,19.0554639,72.8278189,"Somnath Lane, Ranwar Village Square, H/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400050, India",Assault,1,2.026,0.68104,2023-06-20T04:16:29
+Bandra Terminus,19.0623883,72.8409178,"Bandra Terminus, Anant Kanekar Marg, Shivajinagar, Kherwadi, H/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400052, India",Vandalism,0,4.163,0.81652,2023-09-02T20:09:34
+28th Road,19.0600837,72.8346645,"28th Road, Khar, H/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400050, India",Theft,0,2.888,0.66552,2023-07-17T08:57:19
+1st Road,19.065734,72.8382244,"1st Road, Linking Road Shopping area, Khar, Bandra West, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400052, India",Vandalism,1,0.411,0.41644,2023-07-18T15:17:01
+9th Road,19.0550952,72.8985955,"9th Road, Chembur Gaothan, Chembur, M/W Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400089, India",Others,1,0.28,0.1112,2023-05-13T22:32:08
+Saint Cyril Road,19.0584117,72.8283889,"Saint Cyril, 140, St. Anthony Road, H/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400050, India",Assault,0,0.756,0.88024,2023-04-21T03:39:40
+SG Joshi Marg,19.056179,72.8382806,"SG Joshi Marg, H/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400050, India",Assault,1,0.167,0.60668,2023-02-13T19:43:43
+National Library Road,19.0551726,72.8386552,"National Library Road / Nandi Galli, H/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400050, India",Theft,1,0.469,0.31876,2023-12-09T04:36:54
+Bandra Worli Sea Link,19.0316246,72.8159714,"Rajiv Gandhi Sea Link, Worli Koliwada, Worli, G/S Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400035, India",Assault,1,3.489,0.73956,2023-12-22T01:08:33
+Manuel Gonsalves Road,19.0572875,72.8297737,"Manuel Gonsalves Road, Ranwar Village Square, H/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400050, India",Suspicious Activity,0,2.718,0.55872,2023-07-19T20:27:48
+Pandurang Ashram Marg,19.0611602,72.8351497,"27th Road (Pandurang Ashram Marg), Khar, Bandra West, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400050, India",Assault,0,3.775,1.0,2023-12-18T19:38:17
+Chimbai Road,19.0568276,72.8241637,"Chimbai Road, Chimbai Village, H/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400050, India",Vandalism,0,4.575,0.833,2023-08-15T09:59:56
+Hill Road,19.0547647,72.8260976,"Hill Road, Ranwar Village Square, H/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400050, India",Vandalism,1,2.967,0.51868,2023-03-07T00:17:26
+Pereira Road,19.0514358,72.8222833,"Pereira Road, Bandstand, H/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400050, India",Vandalism,1,3.658,0.54632,2023-12-20T23:05:44
+BJ Road,18.9498225,72.8189252,"Marine Drive, Girgaon, D Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400020, India",Vandalism,1,3.81,0.5524,2023-11-05T23:06:31
+DR. Ambedkar Road,19.1713312,72.951577,"Dr Ambedkar Road, Vijay Nagar, Mulund West, T Ward, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400080, India",Suspicious Activity,0,1.951,0.52804,2023-06-21T19:20:39
+St. Sebastian Road,19.0518089,72.8245812,"St Sebastian Road, Bandstand, H/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400050, India",Harassment,1,1.281,0.55124,2023-05-30T02:44:44
+Mount Carmel Road,19.0517033,72.8264157,"Mount Carmel Road, Ranwar Village Square, H/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400050, India",Others,1,1.105,0.1442,2023-05-19T19:56:14
+Vastu,19.0683796,72.8277725,"Vastu, Nargis Dutt Road, Pali Hill, Khar, Bandra West, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400052, India",Theft,1,1.332,0.35328,2023-01-12T18:53:09
+Pali Mala Road,19.0628366,72.8271568,"Pali Mala Road, Adarsh Nagar, Khar, H/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400050, India",Vandalism,1,1.446,0.45784,2023-09-30T13:43:52
+Borivali,19.229068,72.8573628,"Borivali, Kasturba Gandhi Road, Borivali East, R/C Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400066, India",Assault,0,1.115,0.8946,2023-01-17T07:59:46
+I.C. Colony,19.2467725,72.8489125,"I C Colony, Dahisar West, R/N Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400092, India",Vandalism,0,4.403,0.82612,2023-04-27T17:26:08
+Shimpoli,19.2238836,72.8476854,"Shimpoli, R/C Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400091, India",Assault,1,3.809,0.75236,2023-12-08T06:16:07
+Gorai,19.2283752,72.8258655,"Gorai, R/C Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 900092, India",Others,0,0.33,0.3632,2023-01-07T10:17:30
+Kora Kendra,19.2213009,72.8499175,"Kora Kendra, Shimpoli, R/C Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400066, India",Others,0,1.416,0.40664,2023-12-05T16:25:11
+Vazira Naka,19.2289622,72.8448146,"Vazira Naka, Lokmanya Tilak Road, Ashtavinayak Nagar, Borivali West, R/C Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400091, India",Others,1,0.209,0.10836,2023-11-12T16:05:44
+Babhai,19.2307304,72.8476111,"Babhai Gaothan Marg 2, Govind Nagar, Borivali West, R/C Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400103, India",Assault,1,2.541,0.70164,2023-10-29T00:34:55
+Yogi Nagar,19.2351117,72.8433385,"Yogi Nagar Marg, Borivali West, R/C Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400091, India",Vandalism,0,2.433,0.74732,2023-01-30T08:07:29
+Devipada,19.2252681,72.8651415,"Devipada, Borivali East, R/C Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400066, India",Others,1,4.174,0.26696,2023-07-05T21:31:17
+Magathane,19.2167968,72.8668012,"Magathane, Western Express Highway, Borivali East, R/C Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400066, India",Suspicious Activity,0,1.608,0.51432,2023-12-17T05:35:33
+Sukurwadi,19.2317548,72.8602575,"Sukurwadi Bus Fepot, Mahatma Gandhi Marg, Borivali East, R/C Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400066, India",Assault,1,4.1,0.764,2023-02-24T03:43:08
+Dahisar,19.2493572,72.8596302,"Dahisar, Bharucha Road, Dahisar East, R/N Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400068, India",Assault,0,4.843,1.0,2023-10-01T20:09:35
+NL Complex,19.2612668,72.8664281,"NL Complex, Dahisar East, R/N Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, India",Vandalism,1,0.533,0.42132,2023-03-08T23:25:28
+Mandapeshwar Caves,19.2449679,72.8537459,"Mandapeshwar Caves, Laxman Mhatre Marg, Shivaji Nagar, Dahisar West, R/N Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400092, India",Assault,0,3.98,1.0,2023-08-20T04:39:06
+Shakti Nagar,19.1427366,72.8334309,"Shakti Nagar, Jogeshwari West, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, India",Assault,0,2.991,0.96964,2023-04-16T22:27:13
+Anand Nagar,19.0813635,72.8481893,"Anand Nagar, Golibar, H/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400055, India",Others,0,2.452,0.44808,2023-05-02T15:55:52
+Ketkipada,19.2560922,72.8748351,"Ketkipada, Dahisar East, R/N Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 401104, India",Vandalism,1,2.161,0.48644,2023-10-02T15:07:22
+Anand Park,19.0810765,72.8485939,"Anand Nagar Garden, Anand Nagar, Golibar, H/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400055, India",Others,0,3.945,0.5078,2023-12-05T14:57:52
+Krishna Colony,19.2091133,72.8743209,"krishna colony, 120 feet Road, Dattani Park, Thakur Village, R/S Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400101, India",Others,0,3.233,0.47932,2023-04-11T08:16:14
+Balaji Colony,18.9724225,72.8150157,"Balaji Fast Food, Rajni Mahal Building, Hatutma Sitaram Ghadi Gaonkar Street, Cowasji Jehangir Colony, Tulsi Wadi, D Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400034, India",Vandalism,1,4.045,0.5618,2023-12-30T22:57:06
+Ekta Colony,19.0196269,72.8496203,"Ekta Invictus, 802A, Dr Babasaheb Ambedkar Marg (Vincent Road), Dadar Parsi Colony, Matunga East, F/N Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400014, India",Theft,1,4.525,0.481,2023-11-18T12:21:08
+Maratha Nagar,19.0627566,72.8836243,"Mavla Maratha Road, Naware Baug Jagruti Nagar, Kurla East, L Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400024, India",Others,0,3.125,0.475,2023-03-12T10:55:08
+CS Complex,19.142681,72.8262715,"Basera Air India, 1st Cross Road, Lokhandwala Complex, Oshiwara, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400053, India",Suspicious Activity,0,4.904,0.64616,2023-12-01T11:09:17
+Avdhut Nagar,19.2592685,72.8620869,"Avdhut Nagar, Dahisar East, R/N Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400068, India",Suspicious Activity,1,3.08,0.3232,2023-07-30T00:32:01
+Narendra Complex,19.252256,72.8731526,"Narendra Complex Access Road, Dharkhadi, Dahisar East, R/N Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400068, India",Assault,1,3.22,0.7288,2023-09-16T00:49:03
+Shanti Nagar,19.0641916,72.9311514,"Shanti Nagar, Shivaji Nagar, M/E Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400043, India",Suspicious Activity,1,2.819,0.31276,2023-06-06T21:48:23
+Yadav Nagar,19.1137368,72.8385454,"Yadav Nagar, Andheri West, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, India",Assault,1,0.546,0.62184,2023-10-30T13:44:52
+Navagaon,19.2548233,72.8502001,"BMC Navagaon Park, Dahisar West, R/N Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, India",Theft,1,3.659,0.44636,2023-10-17T05:29:10
+Goregaon,19.1648688,72.8495492,"Goregaon, Station Rd., Goregaon East, P/S Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400062, India",Vandalism,0,2.782,0.76128,2023-11-21T07:38:34
+Best Nagar,19.1531908,72.8418998,"BEST Nagar, Haribhau Rupawate Marg, Goregaon West, P/S Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400104, India",Vandalism,1,2.309,0.49236,2023-12-13T02:00:22
+Jawahar Nagar,19.1607297,72.8475308,"Jawahar Nagar, Goregaon West, P/S Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400062, India",Vandalism,0,4.561,0.83244,2023-12-04T03:05:50
+Aarey Milk Colony,19.1561292,72.8707223,"Aarey Milk Colony, P/S Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400063, India",Suspicious Activity,0,1.56,0.5124,2023-02-08T18:41:05
+Motilal Nagar,19.158874,72.8403032,"Motilal Nagar, Srirang Sabde Marg, Unnat Nagar, Goregaon West, P/S Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400104, India",Theft,0,2.666,0.65664,2023-11-02T23:14:58
+Bangur Nagar,19.1688142,72.8336777,"Bangur Nagar, P/S Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400090, India",Suspicious Activity,1,3.518,0.34072,2023-04-28T22:37:38
+Gokuldham,19.1738527,72.8670935,"Gokuldham, Dindoshi, P/S Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400063, India",Suspicious Activity,0,4.003,0.61012,2023-08-13T04:49:32
+Jayprakash Nagar,19.1633383,72.8541442,"Jayprakash Nagar, Goregaon East, P/S Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, India",Theft,0,2.351,0.64404,2023-04-28T21:50:27
+Pandurang Wadi,19.1720131,72.8510489,"Pandurang Wadi Road : 4, Yashodham, Goregaon East, P/S Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400062, India",Theft,1,4.226,0.46904,2023-10-14T14:14:15
+NESCO Colony,19.1523709,72.8542221,"Tower 4, Western Express Highway, Goregaon East, P/S Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400063, India",Theft,0,3.868,0.70472,2023-01-23T12:09:25
+Oshiwara,19.1502437,72.8342294,"Oshiwara, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400102, India",Theft,0,0.425,0.567,2023-08-09T07:30:21
+Jogeshwari,19.1348994,72.8488199,"Jogeshwari, Station Road, Jogeshwari West, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400060, India",Vandalism,1,0.325,0.413,2023-09-26T07:10:41
+Amrut Nagar,19.1008449,72.9118196,"Amrut Nagar, Pirojsha Godrej Nagar, N Ward, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400071, India",Harassment,0,3.142,0.87568,2023-03-27T19:40:54
+Kevni Pada,19.1303765,72.8466915,"Kevni Pada Road, Jogeshwari West, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400047, India",Harassment,0,1.802,0.82208,2023-11-08T08:27:32
+Behram Baug,19.1432444,72.8353779,"Behram Baug, Oshiwara, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, India",Theft,0,1.125,0.595,2023-12-17T17:12:48
+Patliputra Nagar,19.1303556,72.8252885,"Patliputra, 5, Versova, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, India",Harassment,1,2.94,0.6176,2023-07-21T21:04:17
+Vahatuk Nagar,19.1296578,72.8447437,"Vahatuk Nagar Vollyball Ground, Jogeshwari West, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, India",Harassment,1,1.774,0.57096,2023-03-06T04:35:41
+Vaishali Nagar,19.185558,72.9470569,"Vaishali Nagar, Mulund Colony, T Ward, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400604, India",Theft,1,2.733,0.40932,2023-07-03T05:57:36
+Sainik Nagar,19.1604179,72.9356847,"Swatantra Sainik Natha Babaji Thorat Marg, Ram Raheem Udyog Nagar, Nahur, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400078, India",Harassment,0,2.355,0.8442,2023-08-21T18:34:05
+Patilwadi,19.0535667,72.9214874,"Patilwadi, Govandi East, M/E Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, India",Suspicious Activity,0,2.965,0.5686,2023-07-10T05:57:57
+Dnyaneshwar Marg,19.0699016,72.8497767,"All India Institute Of Local Self-Government, No. 12, Sant Dnyaneshwar Marg, RPF Colony, Golibar, H/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400051, India",Assault,1,2.061,0.68244,2023-03-03T16:26:46
+Shastri Nagar,19.1380387,72.8280164,"Shastri Nagar, Jogeshwari West, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400053, India",Assault,0,3.519,0.99076,2023-12-30T22:05:15
+Azad Nagar,19.1283153,72.8400381,"Azad Nagar, Dadabhai Naoroji Nagar, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400058, India",Theft,0,0.982,0.58928,2023-09-21T03:31:36
+Khan Estate,19.0388265,72.8430956,"Khan Estate Colony, Mahim, G/N Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, India",Vandalism,1,3.513,0.54052,2023-03-03T13:00:34
+Pratiksha Nagar,19.0396,72.8693,"Pratiksha Nagar, Rawal Camp, Sion East, F/N Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400022, India",Theft,1,2.117,0.38468,2023-06-23T14:43:45
+BR Nagar,19.116215,72.8440481,"G K Gokhale Bridge, Andheri West, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400058, India",Vandalism,0,4.384,0.82536,2023-12-02T16:14:35
+Momin Nagar,19.1398313,72.8459716,"Momin Nagar Station, Balasaheb Thackeray Flyover, Jogeshwari West, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400102, India",Assault,0,2.625,0.955,2023-02-20T05:47:07
+Prabhat Nagar,19.0449327,72.8739099,"Prabhat, Prateeksha Nagar Road, MHB Colony, Sion East, F/N Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400022, India",Theft,0,4.868,0.74472,2023-09-21T12:43:25
+Kadam Nagar,19.1451594,72.8357875,"Kadam Nagar, Oshiwara, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, India",Others,1,3.049,0.22196,2023-12-03T16:43:20
+Ambivali,19.1331195,72.8251336,"Ambivali Shiv Kripa, Versova, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, India",Suspicious Activity,1,1.197,0.24788,2023-09-27T23:38:16
+Patel Estate,19.1315407,72.8693067,"Sardar Vallabhbhai Patel Road, Model Town, MIDC, K/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400093, India",Harassment,1,4.127,0.66508,2023-10-18T08:18:09
+Gautam Nagar,19.1330356,72.895199,"Gautam Nagar, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400087, India",Vandalism,1,1.791,0.47164,2023-12-17T18:33:26
+Adarsh Nagar,19.0622146,72.8289581,"Adarsh Nagar, Khar, H/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400050, India",Others,0,1.803,0.42212,2023-09-27T20:10:33
+Balasaheb Thackeray Flyover,19.1390246,72.8500867,"Balasaheb Thackeray Flyover, K/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400060, India",Harassment,1,0.256,0.51024,2023-12-13T23:36:28
+JVLR,19.1398879,72.8678931,"Jogeshwari Vikhroli Link Road, Durganagar, K/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400060, India",Harassment,1,2.789,0.61156,2023-02-21T20:00:43
+Gupha Tekdi,19.1402044,72.8568828,"Gupha Rd, Gufa Tekdi, K/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400060, India",Theft,1,2.719,0.40876,2023-11-05T05:16:51
+Poonam Nagar,19.1369178,72.869128,"Poonam Nagar, K/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400093, India",Harassment,1,1.844,0.57376,2023-11-17T03:28:35
+Squatters Colony,19.134607,72.8566174,"Squatters Colony Road, K/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400060, India",Suspicious Activity,1,4.482,0.37928,2023-01-12T04:05:27
+Samarth Nagar,19.0521703,72.869826,"Samarth Nagar, Kurla East, L Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, India",Others,0,0.731,0.37924,2023-09-21T10:58:27
+Shyam Nagar,19.137156,72.8614676,"Shyam Nagar, K/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400060, India",Harassment,0,1.717,0.81868,2023-04-26T08:30:55
+Janata Colony,19.132504,72.8574656,"Janata Colony, MIDC, K/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400060, India",Theft,1,1.676,0.36704,2023-09-27T04:23:59
+Kranti Nagar,19.0679196,72.8868461,"shankar mandir (kranti nagar central railway colony), 1, Railway Colony Road, Sabale Nagar, Kurla East, L Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400024, India",Suspicious Activity,0,0.552,0.47208,2023-01-17T11:46:50
+Natwar Nagar,19.130319,72.8505689,"Natwar Nagar, K/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400060, India",Assault,1,2.458,0.69832,2023-01-16T18:01:39
+Samarth Nagar,19.0521703,72.869826,"Samarth Nagar, Kurla East, L Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, India",Others,1,3.47,0.2388,2023-02-19T03:40:53
+Oberoi Splendor,19.1404894,72.8647504,"Oberoi Splendor, K/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400060, India",Harassment,0,2.607,0.85428,2023-11-12T06:27:08
+Anand Nagar,19.0813635,72.8481893,"Anand Nagar, Golibar, H/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400055, India",Theft,0,0.869,0.58476,2023-11-08T10:00:54
+Shankar Wadi,19.0861621,72.9122535,"Gauri Shankar Wadi, Saibaba Nagar, Ghatkopar East, N Ward, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400075, India",Assault,1,1.949,0.67796,2023-04-16T03:00:00
+Pratap Nagar,19.1412711,72.8562427,"Pratap Nagar, K/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400060, India",Assault,1,0.113,0.60452,2023-02-27T12:58:48
+Sunder Nagar,19.1732766,72.8407686,"Sunder Nagar, Bangur Nagar, P/S Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400090, India",Vandalism,1,4.355,0.5742,2023-12-18T19:14:03
+Jijamata Colony,19.1255307,72.863526,"Jijamata Road, Sher e Punjab Colony, MIDC, K/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400093, India",Suspicious Activity,0,0.514,0.47056,2023-09-02T22:07:46
+Kandivali,19.2041136,72.8517376,"Kandivali, Bajaj Marg, Kandivali East, R/S Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400067, India",Harassment,1,3.027,0.62108,2023-11-05T22:26:02
+Dahanukarwadi,19.2062315,72.8348068,"Dahanukarwadi, Goregaon Link Road, Kandivali West, R/S Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400067, India",Theft,1,4.933,0.49732,2023-06-16T01:41:30
+Charkop,19.2141193,72.8258652,"Charkop, R/S Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 900092, India",Vandalism,1,2.729,0.50916,2023-07-17T16:05:51
+Poisar,19.2119251,72.8468858,"Poisar, R/S Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400067, India",Suspicious Activity,0,4.628,0.63512,2023-06-13T18:03:11
+Hindustan Naka,19.1083512,72.8782543,"HP, Mathuradas Vasanji Road (Andheri Kurla Road), Chimatpada, Saki Naka, K/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400072, India",Vandalism,1,1.257,0.45028,2023-01-06T19:31:58
+Mahavir Nagar,19.2149882,72.8378643,"Mahavir Nagar, R/S Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400067, India",Others,1,3.824,0.25296,2023-10-01T03:04:36
+Samta Nagar,19.1659648,72.9971605,"Samta Nagar, Airoli, Navi Mumbai, Thane Taluka, Thane, Maharashtra, 400708, India",Suspicious Activity,0,2.703,0.55812,2023-01-02T18:27:42
+Damu Nagar,19.1980883,72.8807684,"Damu Nagar, Thakur Village, R/S Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400101, India",Suspicious Activity,1,3.631,0.34524,2023-05-31T01:46:11
+Thakur complex,19.2112442,72.8643107,"Thakur Complex, Kandivali East, R/S Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, India",Harassment,1,0.405,0.5162,2023-05-18T17:32:47
+Thakur village,19.2097189,72.8759248,"Thakur Village, R/S Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400101, India",Suspicious Activity,0,0.824,0.48296,2023-04-03T15:26:08
+Akurli road,19.2006309,72.862619,"Akurli Road, Kandivali East, R/S Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400101, India",Vandalism,1,0.752,0.43008,2023-04-01T11:25:34
+Hanuman Nagar,19.1412761,72.9207605,"Hanuman Nagar, Kanjur West, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400078, India",Suspicious Activity,0,3.467,0.58868,2023-07-16T16:26:56
+Kranti Nagar,19.0679196,72.8868461,"shankar mandir (kranti nagar central railway colony), 1, Railway Colony Road, Sabale Nagar, Kurla East, L Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400024, India",Harassment,0,4.238,0.91952,2023-02-27T12:41:24
+Laxmi Nagar,19.0908037,72.9167981,"Laxmi Nagar, Ghatkopar, N Ward, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400075, India",Harassment,1,3.773,0.65092,2023-11-30T02:58:08
+Dattani,19.221078,72.851646,"Dattani Towers, Shimpoli, R/C Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, India",Others,1,0.249,0.10996,2023-12-12T07:36:25
+Khar,19.0682411,72.8400412,"Khar Road, Chitrakar Durandhar Road (2nd Road), Khar, H/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400052, India",Vandalism,1,4.349,0.57396,2023-10-14T15:58:24
+Pali Naka,19.0627851,72.8293905,"Pali Naka, Pali Mala Road, Adarsh Nagar, Khar, Bandra West, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400050, India",Assault,1,1.835,0.6734,2023-02-26T02:56:35
+Khar Danda,19.0759684,72.824731,"Khar Danda, Khar Danda Koliwada, Bandra West, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, India",Assault,0,2.046,0.93184,2023-08-08T01:17:25
+21st Road,19.0751726,72.8270461,"21st Road, Khar Danda Koliwada, Bandra West, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400052, India",Suspicious Activity,1,0.614,0.22456,2023-06-24T08:05:34
+18th Road,19.0737855,72.8294139,"18th Road, Ambedkar Colony, Khar, Bandra West, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400052, India",Others,0,3.713,0.49852,2023-05-09T15:32:38
+16th Road,19.0771489,72.8310964,"16th Road, Vithaldas Nagar, Khar, Bandra West, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400052, India",Theft,1,0.993,0.33972,2023-08-03T09:14:47
+14th Road,19.0651601,72.8325543,"14th Road, Linking Road Shopping area, Khar, Bandra West, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400050, India",Suspicious Activity,1,2.863,0.31452,2023-05-06T15:31:37
+Ambedkar Road,19.2063858,72.821932,"Ambedkar Road, Charkop Village, Charkop, R/S Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400095, India",Others,1,4.219,0.26876,2023-07-12T14:48:44
+Malad,19.1867193,72.8485884,"Malad, Kasturba Road, Malad West, P/N Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400064, India",Vandalism,0,0.537,0.67148,2023-07-23T23:51:30
+Dindoshi,19.1740198,72.8695219,"Dindoshi, P/S Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400063, India",Vandalism,1,2.723,0.50892,2023-09-25T21:14:18
+Sunder Nagar,19.1732766,72.8407686,"Sunder Nagar, Bangur Nagar, P/S Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400090, India",Vandalism,1,1.243,0.44972,2023-07-09T17:02:06
+Pathanwadi,19.1795154,72.8623967,"Pathanwadi, Malad East, P/N Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400097, India",Vandalism,1,1.78,0.4712,2023-01-21T18:49:03
+Rani Sati Marg,19.1837229,72.849836,"Rani Sati Marg, Malad East, P/N Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400097, India",Vandalism,1,2.422,0.49688,2023-01-29T07:29:10
+Malvani,19.1814218,72.8191328,"Malvani BEST Bus Depot, Malwani, P/N Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, India",Others,0,1.84,0.4236,2023-09-24T19:54:00
+Orlem,19.1944819,72.8389662,"Orlem, P/N Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400064, India",Others,1,3.279,0.23116,2023-06-09T22:24:22
+Evershine Nagar,19.1907836,72.8326338,"Evershine Nagar Road, Orlem, P/N Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400064, India",Harassment,0,2.45,0.848,2023-09-16T12:40:07
+Jankalyan Nagar,19.1972457,72.8205368,"Jankalyan Road, Janakalyan Nagar, Malwani, P/N Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400095, India",Assault,0,2.963,0.96852,2023-07-05T20:04:59
+Santacruz,19.0796105,72.8470573,"Santacruz, Kalina-Vakola Flyover, Anand Nagar, Golibar, H/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400055, India",Vandalism,0,3.71,0.7984,2023-06-14T10:46:41
+Kalina,19.079273,72.8612672,"Kalina, H/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400098, India",Theft,0,2.833,0.66332,2023-02-22T10:55:38
+Vakola,19.0813635,72.853893,"Vakola, Kalina, H/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400055, India",Others,0,2.974,0.46896,2023-05-02T06:45:31
+Prabhat colony,19.0864635,72.8435397,"Prabhat Colony, H/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400054, India",Theft,0,2.866,0.66464,2023-06-20T06:25:50
+Anand Nagar,19.0813635,72.8481893,"Anand Nagar, Golibar, H/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400055, India",Theft,1,1.956,0.37824,2023-12-02T17:12:50
+Agripada,18.97504,72.8250555,"Agripada, Byculla West, E Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400004, India",Theft,0,1.753,0.62012,2023-10-20T05:30:26
+New Agripada,19.0868893,72.8447655,"New Agripada, Western Express Highway, Prabhat Colony, H/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400055, India",Harassment,0,4.508,0.93032,2023-11-04T02:50:45
+Chaitanya Nagar,19.078874,72.8483968,"Chaitanya Nagar, MHB Colony, Anand Nagar, Golibar, H/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400055, India",Others,0,3.077,0.47308,2023-01-16T14:55:09
+Shivaji Nagar,19.0637885,72.9249,"Shivaji Nagar, M/E Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400043, India",Theft,1,1.297,0.35188,2023-04-22T19:56:02
+Vakola Pipeline,19.0834763,72.857239,"CGHS Dispensary No.14, Vakola, Pipeline Road, Vakola, Kalina, H/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400055, India",Vandalism,1,2.541,0.50164,2023-08-19T07:11:29
+Yashwant Nagar,19.0772165,72.8541304,"Yashwant Nagar, Kalina, H/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400055, India",Suspicious Activity,0,1.719,0.51876,2023-12-30T15:00:05
+Khira Nagar,19.0883124,72.8369382,"Khira Nagar, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, India",Theft,1,4.675,0.487,2023-04-09T19:51:38
+Juhu Koliwada,19.0859241,72.8276105,"Juhu Koliwada, Juhu Tara Road, Tara Village, Juhu, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400054, India",Harassment,0,0.137,0.75548,2023-07-23T21:47:45
+Gazdhar Bandh,19.0792292,72.8279277,"Gazdhar Bandh, Khar, Bandra West, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, India",Others,0,1.204,0.39816,2023-08-13T06:44:32
+Vile Parle,19.0999098,72.8440038,"Vile Parle, Sky Walk (Vile Parle (west)), Kamala Nagar, Vile Parle West, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400057, India",Harassment,1,1.89,0.5756,2023-11-18T20:19:28
+Irla,19.1208949,72.8209133,"Irla Nala, Versova, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400061, India",Theft,0,2.49,0.6496,2023-07-13T22:22:30
+Nehru Nagar,19.0010485,72.8194265,"Nehru Nagar, G/S Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400018, India",Others,1,4.269,0.27076,2023-06-07T17:07:51
+Juhu,19.1070215,72.8275275,"Juhu, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400058, India",Suspicious Activity,1,0.531,0.22124,2023-05-21T14:50:31
+Bhandup,19.1438684,72.9384327,"Bhandup, Bhandup Station West Skywalk, Bhandup West, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400078, India",Theft,0,4.049,0.71196,2023-07-08T06:59:55
+Bhattipada Road,19.1493369,72.9370201,"Bhattipada Road, Bhattipada, Bhandup West, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400078, India",Harassment,0,0.373,0.76492,2023-08-18T03:00:20
+Shivaji Talav,19.1275866,72.9983323,"Chhatrapati Shivaji Maharaj Talav, Ghansoli Village, Ghansoli, Navi Mumbai, Thane Taluka, Thane, Maharashtra, India",Assault,1,4.227,0.76908,2023-04-26T01:36:55
+Hanuman Nagar,19.1412761,72.9207605,"Hanuman Nagar, Kanjur West, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400078, India",Vandalism,0,0.353,0.66412,2023-09-10T08:08:35
+Pratap Nagar,19.1412711,72.8562427,"Pratap Nagar, K/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400060, India",Harassment,0,0.189,0.75756,2023-07-26T06:10:42
+Maharashtra Nagar,19.0485696,72.9392517,"Maharashtra Nagar, Mankhurd, M/E Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400094, India",Others,0,3.515,0.4906,2023-07-11T21:48:37
+Jamil Nagar,19.1433206,72.9251908,"Jamil Nagar, Bhandup West, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400078, India",Theft,1,4.987,0.49948,2023-11-17T20:39:54
+Kokan Nagar,19.1465466,72.92885,"Kokan Nagar, Bhandup West, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400078, India",Vandalism,1,4.493,0.57972,2023-07-08T22:37:46
+Utkarsh Nagar,19.2232813,72.854437,"Utkarsh Heights Cooperative Housing Society Limited, Natakwala Lane, Sumer Nagar, Shimpoli, R/C Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400092, India",Theft,0,2.922,0.66688,2023-06-18T05:30:43
+Samarth Nagar,19.0521703,72.869826,"Samarth Nagar, Kurla East, L Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, India",Others,1,4.595,0.2838,2023-10-23T14:57:39
+Sonapur,19.1628583,72.934172,"Sonapur, Nahur, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400082, India",Theft,1,0.126,0.30504,2023-06-02T23:09:17
+Sahyadri Nagar,19.037232,72.906763,"Sahyadri Nagar, Rahul Nagar Slums, Fertilizer Colony, M/E Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400074, India",Assault,1,4.878,0.79512,2023-10-27T22:38:20
+Sarvoday Nagar,19.1507737,72.9309976,"Sarvoday Nagar, Bhandup West, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400078, India",Vandalism,1,2.505,0.5002,2023-01-02T00:30:46
+Ghatkopar,19.0856928,72.9083668,"Ghatkopar, Ghatkopar East Station Plaza, Kapol Wadi, Ghatkopar East, N Ward, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400075, India",Vandalism,1,3.642,0.54568,2023-12-18T20:51:27
+Amrut Nagar,19.1008449,72.9118196,"Amrut Nagar, Pirojsha Godrej Nagar, N Ward, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400071, India",Others,0,4.122,0.51488,2023-04-29T17:04:47
+Asalfa,19.0967391,72.894326,"Asalpha, Sant Shitolebaba Maharaj Marg, Narayan Nagar, Asalpha, L Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400072, India",Assault,0,3.62,0.9948,2023-08-26T12:32:48
+Garodia Nagar,19.0741334,72.9085221,"Garodia Nagar, Vidya Vihar East, N Ward, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400077, India",Harassment,0,2.722,0.85888,2023-04-08T23:14:02
+Jagdusha Nagar,19.0949344,72.9088515,"Jagdusha Nagar, Ghatkopar West, N Ward, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400086, India",Theft,1,2.435,0.3974,2023-01-21T02:22:06
+Pant Nagar,19.0833305,72.9115042,"Pant Nagar, Ghatkopar East, N Ward, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400075, India",Suspicious Activity,1,4.209,0.36836,2023-12-07T22:39:46
+Barve Nagar,19.0952831,72.9001776,"Barve Nagar, Ghatkopar West, N Ward, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400086, India",Theft,0,1.105,0.5942,2023-01-03T23:23:48
+Kurla,19.0655397,72.8795636,"Kurla, S G Barve Marg, Brahmanwadi, Kurla West, L Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400024, India",Theft,1,4.843,0.49372,2023-05-20T06:06:37
+Nehru Nagar,19.0010485,72.8194265,"Nehru Nagar, G/S Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400018, India",Harassment,0,3.584,0.89336,2023-03-27T05:57:30
+Machi market,19.0515884,72.9091841,"bhaji&machi market, Deonar, M/W Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, India",Theft,0,1.078,0.59312,2023-04-06T04:45:24
+Kapadia nagar,19.0734075,72.8734912,"Kapadia Nagar, Kurla West, L Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, India",Assault,0,3.708,0.99832,2023-09-13T23:15:14
+Khadi,19.1338033,72.8164756,"KHADI., Sunder Wadi, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, India",Assault,1,2.696,0.70784,2023-06-01T11:46:51
+Court,19.0583199,72.8361601,"Anand Court, H/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, India",Vandalism,1,3.565,0.5426,2023-11-26T13:26:23
+Taximen colony,19.0695495,72.8744614,"Taximen's Colony, Kurla West, L Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, India",Others,0,3.862,0.50448,2023-02-11T19:51:11
+MIG,19.0723871,72.8832059,"MIG Colony Road, Netaji Nagar, Kurla West, L Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400070, India",Suspicious Activity,0,0.528,0.47112,2023-09-05T06:26:43
+LIG,19.070133,72.8833172,"LIG Colony, Kurla West, L Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, India",Theft,0,2.58,0.6532,2023-06-05T22:38:17
+Pipe road,19.014599,72.8386283,"Senapati Bapat Marg, Dadar West, G/N Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400028, India",Theft,0,4.667,0.73668,2023-10-10T02:07:34
+Buddha Colony,19.0730876,72.8797604,"Buddha Colony, Kurla West, L Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400070, India",Harassment,1,1.671,0.56684,2023-03-10T23:44:35
+Ambedkar Nagar,19.0015921,72.8442272,"Ambedkar Nagar, MTHL - Worli Connector, Kamgar Nagar, Worli, F/S Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400013, India",Others,1,3.01,0.2204,2023-01-23T20:13:29
+Sambhaji chowk,19.03378,73.0210369,"Chhatrapati Sambhaji Chowk, Nerul East, Navi Mumbai, Thane Taluka, Thane, Maharashtra, 400706, India",Assault,0,1.909,0.92636,2023-05-06T06:04:04
+Bharti Nagar,19.0390903,72.862171,"Vishwa Bharti, Road No 28B, Agarwada Colony, Guru Tegh Bahadur Nagar, F/N Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400022, India",Suspicious Activity,0,2.326,0.54304,2023-05-09T01:18:27
+Mubarak complex,19.0703997,72.8844776,"Mubarak Complex, Kurla East, L Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, India",Vandalism,1,2.788,0.51152,2023-12-18T09:26:25
+Vinobha bhave,19.1437379,72.9950631,"Acharya Vinobha Bhave Road, Diva Gaon, Navi Mumbai, Thane Taluka, Thane, Maharashtra, 410701, India",Assault,1,2.79,0.7116,2023-11-20T23:30:32
+Kohinoor City,19.0753827,72.8865551,"Kohinoor Educational Complex, Kohinoor City, Premier Road, Premier Colony, Kurla West, L Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400070, India",Others,0,1.088,0.39352,2023-12-24T19:23:14
+Jagruti Nagar,19.0925442,72.9019518,"Jagruti Nagar, Sant Shitolebaba Maharaj Marg, Azad Nagar, Ghatkopar West, N Ward, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400086, India",Vandalism,0,3.454,0.78816,2023-07-24T19:18:31
+9 number,18.9887989,72.8446265,"Building Number 9, Shrikanth Hadkar Marg, Dock Labour Colony, Abhyudaya Nagar, F/S Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400027, India",Harassment,0,0.531,0.77124,2023-12-26T16:37:39
+Rajiv Gandhi Nagar,18.9996351,72.8599349,"Rajiv Gandhi Nagar, Sewri, F/S Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400001, India",Harassment,1,0.78,0.5312,2023-01-10T07:17:19
+Taxi Stand,19.0437622,72.8481336,"Taxi stand, Dharavi Main Road, Sheshwadi, Mahim, G/N Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400016, India",Theft,1,0.113,0.30452,2023-03-06T18:00:16
+Diamond,18.99282,72.8486524,"Diamond, Tokersee Jivraj Road, Dock Labour Colony, Cotton Green, F/S Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400033, India",Others,1,0.672,0.12688,2023-01-23T21:35:47
+Galaxy,19.0835291,72.8442623,"Galaxy, Road No 6, Sen Nagar, H/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400055, India",Suspicious Activity,0,2.419,0.54676,2023-08-20T14:56:59
+Bail Bazar,19.0857399,72.8851223,"Royal residency bail bazar, Kale Marg, Sunder Baug, Asalpha, L Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400070, India",Vandalism,0,3.07,0.7728,2023-08-03T22:40:54
+Kaju Pada,19.2361159,72.8689056,"Kaju Pada, Borivali East, R/C Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400066, India",Assault,1,3.992,0.75968,2023-04-08T04:10:33
+Kurla Depot,19.0745661,72.876058,"Kurla Depot, Lal Bahadur Shastri Marg, Kismat Nagar, Kurla West, L Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400070, India",Others,1,0.623,0.12492,2023-04-27T12:19:57
+Patel Wadi,19.1437434,72.8361848,"Patel Wadi, Oshiwara, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, India",Others,0,4.269,0.52076,2023-10-12T15:08:02
+Dhobi Ghat,18.9826851,72.8252534,"Dhobi Ghat, Mahalakshmi, G/S Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, India",Harassment,1,3.755,0.6502,2023-12-09T05:17:02
+New Hall Road,19.0790388,72.8829278,"New Hall Road, Hallow Pul, Kurla West, L Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400070, India",Theft,1,2.102,0.38408,2023-01-19T01:59:27
+Jari Mari,19.0935612,72.8837601,"Maxus Multiplex, Jari Mari, 90 Feet Road, Jarimari, Asalpha, L Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400072, India",Theft,0,4.671,0.73684,2023-04-07T09:02:03
+Achanak Nagar,19.1347755,72.938408,"Achanak Mitra mandal, Ram Nagar, Kanjur Gaon, Bhandup East, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400042, India",Vandalism,1,4.956,0.59824,2023-11-07T06:46:03
+"""L"" Ward",19.0885021,72.8866946,"L Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, India",Harassment,0,1.105,0.7942,2023-11-24T04:58:18
+Mulund,19.1721762,72.9562383,"Mulund, Sardar Vallabhbhai Patel Road, Vijay Nagar, Mulund West, T Ward, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400080, India",Others,0,1.958,0.42832,2023-06-29T14:09:00
+Bombay Colony,19.0769478,72.8599964,"Bombay College of Pharmacy, Mathuradas Colony, Jogiraj Ashram Lane, Mathuradas Colony, Kalina, H/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400098, India",Suspicious Activity,0,4.64,0.6356,2023-04-16T18:09:00
+Xavier Street,19.0060209,72.8435968,"Saint Xavier Street, Bhoiwada, Parel, F/S Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400015, India",Harassment,0,3.636,0.89544,2023-02-10T15:01:19
+Nahur,19.1550738,72.9469187,"Nahur, M D Keni Road, RCF Colony, Nahur, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400078, India",Vandalism,0,0.336,0.66344,2023-05-30T20:28:50
+Powai,19.1187195,72.9073476,"Powai, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400076, India",Vandalism,0,3.929,0.80716,2023-07-13T07:35:14
+Chandivali,19.1091482,72.8945793,"Chandivali, L Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400072, India",Harassment,0,4.157,0.91628,2023-11-30T20:20:13
+Hiranandani Gardens,19.1183882,72.911464,"Hiranandani Gardens, Powai, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400076, India",Vandalism,1,3.777,0.55108,2023-09-29T19:28:02
+BSNL Colony,19.1702317,72.9458482,"BSNL Inspection Quarters, Mulund West, T Ward, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, India",Harassment,0,4.018,0.91072,2023-06-30T20:11:09
+Passpoli,19.1263319,72.8950268,"Passpoli Municipal School, Saki Vihar Road, Gautam Nagar, Powai, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400087, India",Assault,0,4.143,1.0,2023-08-09T00:01:55
+Mhada Colony 19,19.167997,72.967884,"MHADA Colony, Mulund East, T Ward, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, India",Harassment,1,1.013,0.54052,2023-02-02T00:48:01
+Morarji Nagar,19.17024,72.9499292,"Sanghratan Morarji Nanji Gala Chowk, Vithabhai Patel Road, Rohidas Nagar, Mulund West, T Ward, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400080, India",Harassment,1,1.255,0.5502,2023-02-26T18:28:14
+Nitie,19.1349868,72.8997985,"NITIE, Saki Vihar Road, Paspoli Village, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400087, India",Vandalism,1,3.205,0.5282,2023-02-02T15:41:50
+Nitie,19.1349868,72.8997985,"NITIE, Saki Vihar Road, Paspoli Village, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400087, India",Vandalism,0,4.549,0.83196,2023-06-30T18:31:37
+Vidyavihar,19.0795422,72.8971169,"Vidyavihar, Station Road, Sai Sagar, Vidya Vihar West, N Ward, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400086, India",Theft,1,1.649,0.36596,2023-06-17T18:59:51
+Rajawadi,19.0785365,72.9001946,"Rajawadi Joggers Park, Vidya Vihar East, N Ward, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, India",Theft,0,2.983,0.66932,2023-04-17T19:33:27
+Pipeline Road,19.0728229,72.8476146,"Pipeline Road, RPF Colony, Golibar, H/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400055, India",Assault,0,3.447,0.98788,2023-12-20T21:04:21
+Kirol,19.0816423,72.8970712,"KIROL VILLAGE, Vidya Vihar West, N Ward, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400086, India",Theft,0,2.315,0.6426,2023-09-25T10:32:47
+Vikhroli,19.1114795,72.928021,"Vikhroli, P. Godrej Marg, Godrej Station Side Colony, Pirojsha Godrej Nagar, N Ward, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400083, India",Harassment,0,3.598,0.89392,2023-02-11T03:30:24
+Kanjur Marg,19.1296868,72.9283701,"Kanjur Marg, Kanjumarg Station Road, Kanjur West, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400042, India",Vandalism,1,4.508,0.58032,2023-08-21T01:51:01
+Gandhi Nagar,19.05804,72.8472584,"Gandhi Nagar, Kherwadi, H/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400017, India",Theft,1,3.158,0.42632,2023-09-26T02:42:09
+Surya Nagar,19.1190441,72.9234984,"Surya Nagar, Vikhroli West, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400059, India",Theft,0,2.745,0.6598,2023-08-29T22:18:44
+Kannamwar Nagar,19.120555,72.9385693,"Kannamwar Nagar, Road Number 1, Kannamwar Nagar I, Pirojsha Godrej Nagar, Vikhroli East, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400083, India",Assault,0,2.25,0.94,2023-10-29T19:08:35
+Tagore Nagar,19.1196145,72.9343142,"Tagore Nagar, Vikhroli East, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400083, India",Others,0,2.93,0.4672,2023-03-28T06:40:41
+Park Site,19.1016318,72.9144376,"Park Site Colony, Pirojsha Godrej Nagar, N Ward, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400079, India",Assault,1,1.841,0.67364,2023-01-22T13:07:59
+Godrej Station Colony,19.1090696,72.9324041,"P. Godrej Marg, Godrej Station Side Colony, Pirojsha Godrej Nagar, Vikhroli West, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400083, India",Harassment,0,2.018,0.83072,2023-04-07T00:33:59
+Godrej Hillside Colony,19.1082081,72.9209503,"Godrej Hillside Colony, Pirojsha Godrej Nagar, Vikhroli West, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400079, India",Vandalism,0,2.706,0.75824,2023-07-30T03:34:53
+Godrej Creek,19.1052091,72.932793,"Godrej Creek Side Colony, Pirojsha Godrej Nagar, N Ward, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400083, India",Assault,1,0.426,0.61704,2023-02-03T17:09:37
+Chembur,19.054818,72.8979713,"Chembur, M/W Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400089, India",Theft,1,1.222,0.34888,2023-03-08T01:26:35
+Central Avenue,19.1230521,72.9128426,"Central Avenue, Hiranandani Gardens, Powai, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400076, India",Vandalism,0,2.76,0.7604,2023-02-18T19:58:50
+St Anthony's Road,19.055063,72.9024771,"St. Anthony's Road, Ghatla Village, Chembur, M/W Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400089, India",Vandalism,1,2.214,0.48856,2023-03-11T12:09:13
+Golf Club Road,19.0493195,72.8989214,"Bombay Presidency Golf Club, Towards Diamond Garden, Sion Panvel Highway, Ganesh Nagar, Chembur, M/W Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400089, India",Theft,1,1.731,0.36924,2023-11-06T11:37:36
+Pestom sagar,19.0694366,72.9038545,"Dr Nandita Rane's Eye Clinic, Rane Hospital, 2nd Floor, Pestom Sagar Road No. 2, Chembur, Mumbai 400089, India, Dr Nandita Rane's Eye Clinic, Pestom Sagar Colony, Chheda Nagar, M/W Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400089, India",Assault,0,3.68,0.9972,2023-03-09T09:45:40
+Basant Park,19.0510496,72.8942141,"Basant Park Co-op Housing Society, Navjivan Society, Chembur, Chembur, M/W Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400089, India",Theft,1,3.499,0.43996,2023-07-14T16:16:45
+Diamond Garden,19.0531279,72.9004824,"Diamond Garden, Chembur, M/W Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400071, India",Others,0,0.917,0.38668,2023-09-19T17:55:30
+Chedda Nagar,19.0693463,72.9047598,"Chedda Nagar, Service Road, Pestom Sagar Colony, Chheda Nagar, M/W Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400089, India",Vandalism,1,4.405,0.5762,2023-12-11T18:21:31
+Indian Oil Nagar,19.0645922,72.9141998,"Indian Oil Nagar, Shivaji Nagar, M/E Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, India",Suspicious Activity,0,2.528,0.55112,2023-06-06T02:46:53
+Swastik Park,19.0565684,72.890296,"Swastik Park, Chembur, M/W Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400089, India",Suspicious Activity,0,3.733,0.59932,2023-08-28T20:28:08
+Maitri Park,19.0492112,72.9054038,"Maitri Park, Deonar, M/W Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400089, India",Harassment,0,2.908,0.86632,2023-05-12T05:40:11
+Atur Park,19.0504871,72.9046974,"Atur Park, Maitri Park, Deonar, M/W Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400089, India",Theft,1,4.989,0.49956,2023-12-02T23:14:12
+Sindhi Society,19.050289,72.8915885,"sng park, sindhi society, Chembur, M/W Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400071, India",Theft,0,3.787,0.70148,2023-05-06T20:38:52
+Ghatla village,19.0526325,72.9040237,"Ghatla Village, Deonar, M/W Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400089, India",Harassment,1,3.564,0.64256,2023-08-24T14:05:44
+Borla village,19.0455087,72.9009539,"Badshah Logistics India Pvt Ltd, Vikas Business Centre, 601-A, Choitram Gidwani Marg (Kolwada Borla Road), Wadavli Village, Govandi West, M/E Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400074, India",Harassment,0,3.915,0.9066,2023-08-27T22:56:34
+Deonar Farm Road,19.0429702,72.9115106,"Deonar Farm Road, Govandi West, M/E Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400088, India",Harassment,0,0.801,0.78204,2023-06-12T18:41:51
+Subhash Nagar,19.0851733,72.8533097,"Subhash Nagar, Kalina, H/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, India",Vandalism,1,1.102,0.44408,2023-11-11T04:00:12
+Sion Trombay Road,19.0435783,72.9231592,"Sion Panvel Highway, Govandi West, M/E Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400088, India",Others,0,3.599,0.49396,2023-06-07T04:12:58
+P L Lokhande Marg,19.0609573,72.9090261,"P.L. Lokhande Marg, Gaikwad Nagar, Govandi West, M/E Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400044, India",Theft,0,2.521,0.65084,2023-12-27T20:55:53
+Thakkar Bappa Colony,19.0602045,72.8880987,"Thakkar Bappa Colony, Chembur, M/W Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, India",Vandalism,1,3.798,0.55192,2023-08-18T08:20:36
+Suman Nagar,19.0530165,72.8837675,"Suman Nagar, M/W Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400024, India",Harassment,0,0.604,0.77416,2023-07-28T15:00:36
+Postal Colony,19.0607418,72.8949685,"Postal Colony, Chembur, M/W Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400089, India",Theft,0,2.729,0.65916,2023-07-30T17:04:11
+Shell Colony,19.0656414,72.8941934,"Shell Colony, Chembur, M/W Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400089, India",Vandalism,0,1.956,0.72824,2023-05-04T08:46:07
+Sahakar Nagar,19.0126679,72.851632,"Sahakar Nagar, F/N Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400014, India",Others,0,2.339,0.44356,2023-05-02T12:02:20
+Tilak Nagar,19.0657855,72.8904702,"Tilak Nagar, Road No 13, Sabale Nagar, Kurla East, L Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400024, India",Vandalism,1,3.059,0.52236,2023-01-09T11:11:05
+Mahul,19.0141778,72.8972339,"Mahul, M/W Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400007, India",Others,1,2.561,0.20244,2023-06-22T22:20:16
+Vashinaka,19.0334433,72.8992566,"Vashinaka Road, BP Colony, Fertilizer Colony, M/E Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400074, India",Harassment,0,2.745,0.8598,2023-06-24T01:28:31
+Mahul Village,19.0349645,72.8955356,"Ramakrishna Chemburkar Marg (Ghatkopar Mahul Road), Maraoli Village, Deonar, M/W Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400074, India",Others,1,2.483,0.19932,2023-01-21T08:07:02
+Siddharth Colony,19.0578284,72.8920609,"Siddharth Colony, Chembur, M/W Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400089, India",Theft,0,2.104,0.63416,2023-01-04T20:14:39
+Ramakrishna Chemburkar Marg,19.0421479,72.8934572,"Ramakrishna Chemburkar Marg (Ghatkopar Mahul Road), Collector Colony, Chembur, M/W Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400074, India",Harassment,1,3.882,0.65528,2023-09-03T02:14:15
+Bhakti Park,19.028972,72.8775722,"Bhakti Park, Ajmera l-Land Road, Bhakti Park, M/W Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400037, India",Theft,0,0.16,0.5564,2023-02-19T19:18:52
+RCF,19.0337281,72.8928871,"Trees owned by RCF, Deonar, M/W Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, India",Suspicious Activity,0,3.032,0.57128,2023-10-10T23:36:58
+Mysore Colony,19.0277168,72.8914397,"Mysore Colony, Mysore Colony Connector, Sri Ganesh Patel Nagar, M/W Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400074, India",Assault,0,2.871,0.96484,2023-05-10T05:24:08
+Collector Colony,19.0432474,72.8918081,"Collector Colony, Chembur, M/W Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400074, India",Others,0,3.609,0.49436,2023-12-10T13:25:05
+Anushakti Nagar,19.0395778,72.9221562,"Anushakti Nagar, M/E Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400094, India",Assault,0,3.035,0.9714,2023-10-26T17:24:32
+Vishnu Nagar,19.0250002,72.9061681,"Vishnu Nagar, Fertilizer Colony, M/E Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400074, India",Assault,0,4.151,1.0,2023-07-10T06:27:09
+HP nagar,19.0326726,72.9057154,"HP Nagar East, Fertilizer Colony, M/E Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400074, India",Others,1,4.799,0.29196,2023-02-08T17:31:44
+BPCL,19.0161829,72.8519189,"Satguru Automobiles, 711, Katrak Road, Dadar Parsi Colony, Matunga East, F/N Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400014, India",Harassment,0,1.778,0.82112,2023-09-28T07:50:24
+Deonar,19.0475502,72.9051895,"Deonar, M/W Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400089, India",Suspicious Activity,1,1.214,0.24856,2023-02-10T22:02:12
+Mankhurd,19.0485178,72.9323356,"Mankhurd, Mankhurd Station Road, Mankhurd Village, Mankhurd, M/E Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400094, India",Theft,0,2.176,0.63704,2023-08-09T05:13:53
+Mandala,19.0385829,72.9360089,"Mandala, Cheeta Camp, M/E Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400094, India",Vandalism,1,1.511,0.46044,2023-09-23T06:10:50
+Govandi,19.0553688,72.9150702,"Govandi, Deonar Road, Tata Nagar, Govandi West, M/E Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400043, India",Theft,1,3.113,0.42452,2023-08-14T07:03:26
+Baiganwadi,19.0618979,72.9249694,"Baiganwadi, Plot No.11, Shivaji Nagar, M/E Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400043, India",Vandalism,1,4.568,0.58272,2023-03-09T19:08:51
+Deonar,19.0475502,72.9051895,"Deonar, M/W Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400089, India",Theft,0,0.782,0.58128,2023-07-29T11:32:31
+Shivaji Nagar,19.0637885,72.9249,"Shivaji Nagar, M/E Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400043, India",Others,0,0.594,0.37376,2023-09-20T07:17:09
+Gautam Nagar,19.1330356,72.895199,"Gautam Nagar, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400087, India",Suspicious Activity,1,1.354,0.25416,2023-01-14T23:00:46
+Lallubhai Compound,19.0545533,72.9272119,"Lallubhai Compound, Govandi East, M/E Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, India",Vandalism,0,3.658,0.79632,2023-04-30T15:27:31
+Wadala,19.0269192,72.8759337,"Wadala, F/N Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400037, India",Harassment,1,3.006,0.62024,2023-05-24T15:21:07
+Sangam Nagar,19.0242996,72.8721003,"Sangam Nagar, Antop Hill, F/N Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400037, India",Theft,0,0.601,0.57404,2023-05-12T18:05:28
+BPT Colony,19.0156614,72.8617964,"New BPT Colony, Antop Hill, F/N Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400031, India",Theft,1,4.602,0.48408,2023-11-01T11:22:33
+Sahakar Nagar,19.0126679,72.851632,"Sahakar Nagar, F/N Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400014, India",Vandalism,1,3.971,0.55884,2023-12-17T07:52:01
+Madhav Nagar,19.0102471,72.8546389,"Madhav Nagar Co-op Housing Society, Sewri, F/S Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, India",Harassment,0,0.213,0.75852,2023-05-19T18:00:19
+Kidwai Nagar,19.0084356,72.8529813,"Kidwai Nagar, Sewri, F/S Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400001, India",Harassment,1,3.292,0.63168,2023-12-01T15:58:24
+GTB Nagar,19.0380048,72.8643455,"Guru Tegh Bahadur Nagar, M Ambedkar Marg, Agarwada Colony, Indira Nagar, F/N Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400022, India",Others,0,3.879,0.50516,2023-07-12T09:50:59
+Chunabhatti,19.0520886,72.8674141,"Chunabhatti, N S Mankikar Marg, Kurla East, F/N Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400051, India",Others,1,1.935,0.1774,2023-02-22T22:22:28
+Trombay,19.033651,72.9503637,"Trombay, V.N. Purav Marg, Trombay Koliwada, Cheeta Camp, M/E Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400034, India",Others,1,0.438,0.11752,2023-11-03T18:40:20
+Trombay Koliwada,19.0332068,72.9488998,"Trombay Koliwada, Cheeta Camp, M/E Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400034, India",Others,0,0.479,0.36916,2023-07-24T06:03:47
+Agripada,18.97504,72.8250555,"Agripada, Byculla West, E Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400004, India",Others,0,0.611,0.37444,2023-08-29T21:38:47
+Chinchpokli,18.9871984,72.8326716,"Chinchpokli, Chinchpokli Flyover, Mahalakshmi, G/S Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400027, India",Others,0,4.218,0.51872,2023-10-29T19:31:26
+Chor Bazaar,18.9593519,72.829914,"Chor Bazaar, Bhuleshwar, C Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400003, India",Suspicious Activity,1,4.562,0.38248,2023-04-15T03:33:59
+Churchgate,18.9354797,72.8271741,"Churchgate, Maharshi Karve Road, Churchgate, Fort, A Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400023, India",Harassment,0,0.702,0.77808,2023-04-13T01:23:27
+Cuffe Parade,18.9129204,72.8201377,"Cuffe Parade, Colaba, A Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, India",Others,1,1.256,0.15024,2023-10-19T06:47:37
+Grant Road,18.9633549,72.8158261,"Grant Road, N Bharucha Marg, Chikalwadi, Gamdevi, D Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400036, India",Harassment,1,0.911,0.53644,2023-07-01T20:38:19
+Kemps Corner,18.9637535,72.8068617,"Kemps Corner, Cumballa Hill, D Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400036, India",Harassment,0,1.013,0.79052,2023-06-01T16:18:39
+Lower Parel,18.99568,72.8302756,"Lower Parel, Delisle Road ROB, BDD Chawl, Lower Parel, G/S Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400013, India",Assault,0,4.204,1.0,2023-08-29T15:36:57
+Mahalaxmi,18.9825203,72.8242196,"Mahalaxmi, Mahalakshmi Station Flyover, Dhobi Ghat, Mahalakshmi, G/S Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400027, India",Suspicious Activity,1,1.728,0.26912,2023-07-11T08:05:40
+Mahim,19.0423145,72.8398344,"Mahim, G/N Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400016, India",Others,1,1.626,0.16504,2023-12-26T05:59:26
+Masjid Bunder,18.9519858,72.8396237,"Masjid Bunder, B Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400002, India",Theft,0,1.214,0.59856,2023-04-16T23:16:59
+"Marine Drive, Mumbai",18.9328291,72.8234762,"Marine Drive, Fort, A Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400023, India",Vandalism,0,3.079,0.77316,2023-06-15T15:10:18
+Marine Lines,18.945764,72.8237193,"Marine Lines, Maharshi Karve Road, Navjeevan Wadi, Kalbadevi, C Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400020, India",Theft,0,1.959,0.62836,2023-05-12T11:44:44
+Mumbai Central,18.9695855,72.8193152,"Mumbai Central, J Boman Behram Marg, Cowasji Jehangir Colony, Tulsi Wadi, D Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400004, India",Suspicious Activity,0,3.747,0.59988,2023-05-24T14:08:43
+Nagpada,18.9681782,72.8286009,"Nagpada, E Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400004, India",Vandalism,0,1.107,0.69428,2023-08-04T21:19:25
+Nariman Point,18.9253433,72.8180282,"Nariman Point, Sir Dorab Tata Road, Colaba, A Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400023, India",Suspicious Activity,1,3.96,0.3584,2023-03-11T09:41:24
+Prabhadevi,19.0074717,72.8358965,"Prabhadevi, MTHL - Worli Connector, Kamgar Nagar, Worli, G/S Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400013, India",Harassment,1,3.058,0.62232,2023-06-19T02:49:05
+Worli,19.0117388,72.8178706,"Worli, G/S Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400030, India",Vandalism,1,0.66,0.4264,2023-04-29T16:43:39
+Antop Hill,19.0301805,72.8669504,"Antop Hill, M Ambedkar Marg, CGS Colony, Indira Nagar, F/N Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400037, India",Harassment,1,2.131,0.58524,2023-04-22T06:48:11
+C.G.S. colony,19.028923,72.8666936,"State Bank of India, Sheikh Misari Road, C.G.S Colony, Sector-7, Antop Hill, F/N Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400037, India",Theft,0,4.331,0.72324,2023-03-01T22:45:14
+Bhuleshwar,18.9537706,72.8274755,"Bhuleshwar, C Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400002, India",Theft,0,4.623,0.73492,2023-11-30T04:52:16
+Bhendi Bazaar,18.9579427,72.8317816,"Bhendi Bazaar, Bhuleshwar, C Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400003, India",Vandalism,0,2.382,0.74528,2023-10-07T06:16:40
+Byculla,18.9766219,72.8327936,"Byculla, N M Joshi Marg, Byculla West, E Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400027, India",Vandalism,1,2.456,0.49824,2023-11-30T11:57:32
+Ghodapdeo,18.9820061,72.8392802,"Ghodapdeo, Byculla East, E Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, India",Others,1,4.6,0.284,2023-07-19T22:34:36
+Colaba,18.915091,72.8259691,"Colaba, A Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400005, India",Suspicious Activity,0,2.977,0.56908,2023-09-30T13:03:19
+Navy Nagar,18.9106546,72.8091877,"New Navy Nagar, A Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, India",Others,0,0.261,0.36044,2023-09-20T11:26:41
+Cumbala Hill,18.9634974,72.8087763,"Cumbala Hill Hospital and Heart Institute, NS Patkar Marg, Cumballa Hill, D Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400036, India",Suspicious Activity,1,4.572,0.38288,2023-07-18T12:42:52
+Breach Candy,18.9714363,72.8051492,"Breach Candy, Cumballa Hill, D Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400026, India",Others,1,1.316,0.15264,2023-12-18T15:10:56
+Dadar,19.0192269,72.8428479,"Dadar, Ranade Road Extension, Dadar West, G/N Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400028, India",Harassment,0,2.93,0.8672,2023-11-06T11:51:32
+Hindu colony,19.0199623,72.8478929,"Hindu Colony, Dadar Hindu Colony, Matunga East, F/N Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400014, India",Vandalism,0,0.911,0.68644,2023-09-15T14:48:20
+Parsi Colony,19.1274832,72.8563304,"Parsi Colony, MIDC, K/E Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, India",Theft,1,0.266,0.31064,2023-10-23T19:57:55
+Naigaon,19.0095393,72.8478709,"Naigaon, G.D. Ambedkar Marg, Naigaon, Parel, F/S Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400014, India",Suspicious Activity,0,1.626,0.51504,2023-04-26T23:01:44
+Fort,18.9332665,72.8345146,"Fort, A Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400038, India",Suspicious Activity,0,3.924,0.60696,2023-12-30T22:06:28
+Ballard Estate,18.9366512,72.8391325,"Ballard Estate, Fort, A Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400038, India",Theft,0,1.46,0.6084,2023-08-17T08:36:38
+Dhobitalao,18.9440366,72.8281093,"2nd Dhobitalao Lane, Navjeevan Wadi, Kalbadevi, C Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400020, India",Others,1,1.178,0.14712,2023-08-20T07:27:35
+Kala Ghoda,18.9284581,72.8325994,"Kala Ghoda, Fort, A Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400032, India",Suspicious Activity,1,1.142,0.24568,2023-05-13T08:39:48
+Girgaon,18.9543165,72.8179082,"Girgaon, D Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400004, India",Harassment,1,2.624,0.60496,2023-04-17T05:21:00
+Charni Road,18.9518437,72.8182401,"Charni Road, Maharshi Karve Road, Girgaon, D Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400004, India",Vandalism,1,4.88,0.5952,2023-01-15T20:08:50
+Kalbadevi,18.9492575,72.8279382,"Kalbadevi, C Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400002, India",Theft,1,2.349,0.39396,2023-03-27T18:36:06
+Abdul Rehman Street,18.9508697,72.8327223,"Abdul Rehman Street, Bhuleshwar, C Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400002, India",Vandalism,1,2.831,0.51324,2023-02-12T20:17:11
+Agiary Lane,18.9353029,72.8361696,"Agiary Lane, Bora Bazaar, Fort, A Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400038, India",Suspicious Activity,1,4.317,0.37268,2023-12-12T12:24:37
+Balaji Mandir,19.0390438,72.947583,"Balaji Mandir, Balaji Mandir Road, Payal Pada, Cheeta Camp, M/E Ward, Zone 5, Mumbai, Mumbai Suburban, Maharashtra, 400034, India",Suspicious Activity,0,2.722,0.55888,2023-11-17T23:37:04
+Bhuleshwar Road,18.9541509,72.826067,"Bhuleshwar Road, Bhuleshwar, C Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400002, India",Theft,0,1.004,0.59016,2023-12-09T18:14:16
+Clive Road,18.9557298,72.8389121,"Liladhar L Shah Road, Dana Bandar, Masjid Bunder, B Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400009, India",Harassment,0,1.568,0.81272,2023-06-23T23:27:06
+Cotton Exchange,18.9872847,72.84574,"Cotton Exchange, Third Street, Dock Labour Colony, Cotton Green, F/S Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400027, India",Assault,0,1.619,0.91476,2023-09-17T04:09:25
+Dr. Atmaram Merchant Road,18.9521207,72.827556,"Atmaram Merchant Road, Bhuleshwar, C Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400002, India",Theft,0,2.047,0.63188,2023-07-04T15:17:41
+Fanas Wadi,18.9514834,72.8257269,"Fanas Wadi Road, Kalbadevi, C Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400002, India",Assault,0,2.191,0.93764,2023-10-18T21:01:59
+Gaushala,19.1837265,72.946905,"Sheth Nathulala Trust Gaushala, Lala Lajpat Rai Agarwal Marg, Vaishali Nagar, Mulund Colony, T Ward, Zone 6, Mumbai, Mumbai Suburban, Maharashtra, 400080, India",Others,0,4.019,0.51076,2023-01-12T03:41:43
+Gulal Wadi,18.9559494,72.8285412,"Gulal Wadi, Bhuleshwar, C Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400003, India",Assault,1,1.812,0.67248,2023-02-13T11:17:27
+Haines Road,18.9972101,72.8181387,"Dr E Moses Marg, Mariammar Nagar, Nehru Nagar, G/S Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400018, India",Harassment,1,2.394,0.59576,2023-03-06T02:22:40
+Kalbadevi Road,18.9483825,72.8288435,"Kalbadevi Road, Kalbadevi, C Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400002, India",Others,0,3.162,0.47648,2023-10-06T20:40:49
+Kazi Syed Street,18.9536685,72.8369321,"Kazi Syed Street, Khadak, Masjid Bunder, B Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400009, India",Assault,0,1.951,0.92804,2023-11-27T16:23:19
+Lohar Chawl,18.9465587,72.8304501,"Kantilal Sharma St, Navjeevan Wadi, Kalbadevi, C Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400020, India",Others,1,4.199,0.26796,2023-03-27T22:10:29
+Panjrapole Lane,18.9554341,72.828111,"2nd Panjrapole Lane, Bhuleshwar, C Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400003, India",Assault,0,2.979,0.96916,2023-03-23T05:34:52
+Ram Wadi,19.1080941,72.8392509,"Ram Ganesh Gadkari Marg, Dhunbai Wadi, Vile Parle West, K/W Ward, Zone 3, Mumbai, Mumbai Suburban, Maharashtra, 400057, India",Harassment,0,1.541,0.81164,2023-12-01T00:18:32
+Swadeshi Market,18.9494138,72.8281261,"Swadeshi Market, Cave Street, Kalbadevi, C Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400002, India",Assault,1,3.599,0.74396,2023-04-13T00:13:00
+Kamathipura,18.9653224,72.8264349,"Kamathipura, Nagpada, E Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400004, India",Assault,0,2.685,0.9574,2023-02-01T20:05:02
+Malabar Hill,18.9581616,72.8033665,"Malabar Hill, D Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400036, India",Assault,1,2.719,0.70876,2023-05-04T21:20:10
+Walkeshwar,18.9524203,72.8038935,"Walkeshwar, Malabar Hill, D Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400006, India",Theft,0,2.457,0.64828,2023-01-10T18:16:49
+Matunga,19.0274356,72.8501467,"Matunga, Bhandarkar Road, Matunga East, F/N Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400019, India",Theft,1,2.535,0.4014,2023-07-21T21:02:05
+Parel,19.0084268,72.842505,"Parel, F/S Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400028, India",Theft,1,3.85,0.454,2023-06-04T20:35:15
+Cotton Green,18.9871866,72.8438965,"Cotton Green, Rafi Ahmed Kidwai Marg, Dock Labour Colony, Cotton Green, F/S Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400027, India",Harassment,1,0.605,0.5242,2023-04-30T16:32:45
+Lalbaug,18.9914237,72.8364587,"Lalbaug, F/S Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400011, India",Others,0,1.738,0.41952,2023-09-18T08:24:13
+Sion,19.0465213,72.8632834,"Sion, Sion Bandra Link Road, Sion East, G/N Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400051, India",Suspicious Activity,1,0.47,0.2188,2023-08-17T19:57:07
+Chunabhatti,19.0520886,72.8674141,"Chunabhatti, N S Mankikar Marg, Kurla East, F/N Ward, Zone 2, Mumbai, Mumbai City, Maharashtra, 400051, India",Assault,0,3.791,1.0,2023-10-05T00:09:10
+Tardeo,18.9722351,72.8203423,"Tardeo, E Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400004, India",Assault,0,1.434,0.90736,2023-01-17T10:41:59
+Carmichael Road,18.9707374,72.8098049,"Carmichael Road, Cumballa Hill, D Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400026, India",Harassment,0,4.497,0.92988,2023-11-08T18:10:26
+Gowalia Tank,18.962095,72.8100981,"August Kranti Maidan, Gamdevi, D Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, India",Assault,0,2.68,0.9572,2023-12-02T20:57:58
+Altamount Road,18.9662078,72.8090548,"Altamount Road (S K Barodawala Marg), Cumballa Hill, D Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400036, India",Theft,1,4.024,0.46096,2023-12-15T11:37:13
+Nana Chowk,18.9620987,72.8123371,"Nana Chowk, August Kranti Marg, Gamdevi, D Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400036, India",Suspicious Activity,1,4.897,0.39588,2023-06-22T09:15:44
+Umarkhadi,18.9626395,72.8377469,"Umarkhadi / Noorbaug, Dr Meisheri Road, Umerkhadi, Dongri, B Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 200008, India",Vandalism,0,4.215,0.8186,2023-01-03T15:23:49
+Dongri,18.9622265,72.836795,"Dongri, B Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 200008, India",Assault,0,4.348,1.0,2023-05-16T04:31:02
